@@ -9,8 +9,6 @@
   <strong>𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong>
 </p>
 
----
-
 ### About Me
 
 Unityでゲームを作ります <br>
@@ -18,12 +16,58 @@ Unityでゲームを作ります <br>
 19歳です。 <br>
 湯葉が好き <br>
 ```math
-x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+f(x, y) = \sum_{n=0}^{\infty} \sum_{i=0}^{n} \frac{1}{i!(n-i)!}
+(x - x_0)^i (y - y_0)^{n-i}
+\left( \frac{\partial^n f}{\partial x^i \partial y^{n-i}} \right)\Bigg|_{(x_0, y_0)}
 ```
-
-
-
 ---
+
+### My Skills
+
+<table align="center" cellpadding="12" style="border: none; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="border: none;">Software</th>
+      <th style="border: none;">Learning</th>
+      <th style="border: none;">Main Languages &amp; Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <!-- 1行目アイコン -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS2022" width="40" />
+        <!-- 改行 -->
+        <br><br>
+        <!-- ２行目アイコン -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" alt="Emacs" width="40" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Racket" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### GitHub Stats
 
