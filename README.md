@@ -9,19 +9,6 @@
   <strong>𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong>
 </p>
 
-### About Me
-
-Unityでゲームを作ります <br>
-耳コピが好きです <br>
-19歳です。 <br>
-湯葉が好き <br>
-```math
-f(x, y) = \sum_{n=0}^{\infty} \sum_{i=0}^{n} \frac{1}{i!(n-i)!}
-(x - x_0)^i (y - y_0)^{n-i}
-\left( \frac{\partial^n f}{\partial x^i \partial y^{n-i}} \right)\Bigg|_{(x_0, y_0)}
-```
----
-
 ### My Skills
 
 <table align="center" cellpadding="12" style="border: none; border-collapse: collapse;">
