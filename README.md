@@ -97,4 +97,4 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=nekogakure&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=cotore-game&&style=flat-square" align="center" />
