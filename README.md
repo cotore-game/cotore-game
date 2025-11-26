@@ -1,7 +1,4 @@
 <div align="center">
-
-[![typograssy](https://typograssy.deno.dev/api?text=Unity%20%E3%81%95%E3%81%84%E3%81%93%E3%81%86!!!)](https://github.com/kawarimidoll/typograssy)
-
 <h1>
   𝑐𝑜𝑡𝑜𝑟𝑒－𝑔𝑎𝑚𝑒
 </h1>
