@@ -1,94 +1,146 @@
 <div align="center">
-<h1>
-  𝑐𝑜𝑡𝑜𝑟𝑒－𝑔𝑎𝑚𝑒
-</h1>
 
-### My Skills
+# 𝑐𝑜𝑡𝑜𝑟𝑒－𝑔𝑎𝑚𝑒
 
-<table align="center" cellpadding="12" style="border: none; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="border: none;">Software</th>
-      <th style="border: none;">Learning</th>
-      <th style="border: none;">Main Languages &amp; Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <!-- 1行目アイコン -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS2022" width="40" />
-        <!-- 改行 -->
-        <br><br>
-        <!-- ２行目アイコン -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" alt="Emacs" width="40" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Racket" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-### GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cotore-game&theme=react"
-    alt="Profile Details"
-  /><br>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cotore-game&theme=react"
-    alt="Repos by Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cotore-game&theme=react"
-    alt="Most Commit Language"
-  /><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cotore-game&show_icons=true&count_private=true&hide_border=true&theme=react"
-    alt="cotore-game GitHub Stats"
-  /><br>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=cotore-game&theme=react&no-frame=true&row=1&column=7"
-    alt="cotore-game GitHub Trophies"
-  /><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotore-game&layout=compact&theme=dark"
-    alt="cotore-game Top Languages"
-  />
-</div>
+<p>
+  Unity / C# developer
+</p>
 
 ---
 
-### 🔗 Links
+## Main
 
-<div align="center">
-  <a href="https://github.com/cotore-game" target="_blank" style="margin:0 0.5em;">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" alt="C#" /><br>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="52" alt="C" /><br>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="52" alt="C++" /><br>
+      <sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
+
+## Learning
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" alt="TypeScript" /><br>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" /><br>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="48" alt="Java" /><br>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" alt="JavaScript" /><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="54" alt="Node.js" /><br>
+      <sub>Node.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" alt="PHP" /><br>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="44" alt="Visual Basic" /><br>
+      <sub>Visual Basic</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5" /><br>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3" /><br>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="44" alt=".NET" /><br>
+      <sub>.NET</sub>
+    </td>
+  </tr>
+</table>
+
+## Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="46" alt="Unity" /><br>
+      <sub>Unity</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="46" alt="Ubuntu" /><br>
+      <sub>Ubuntu</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="46" alt="VS Code" /><br>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="46" alt="Visual Studio" /><br>
+      <sub>Visual Studio</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" width="46" alt="Emacs" /><br>
+      <sub>Emacs</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cotore-game&theme=github_dark" alt="Profile details" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cotore-game&theme=github_dark" alt="Repos by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cotore-game&theme=github_dark" alt="Most commit language" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cotore-game&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cotore-game&theme=github_dark&utcOffset=9" alt="Productive time" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cotore-game&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p>
+  <img src="https://github-trophies.vercel.app/?username=cotore-game&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cotore-game&theme=github-compact&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p>
+  <a href="https://github.com/cotore-game">
+    <img src="https://img.shields.io/badge/GitHub-cotore--game-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
-</div>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=cotore-game&style=flat-square&color=58a6ff" alt="Profile views" />
+</p>
 
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=cotore-game&&style=flat-square" align="center" />
